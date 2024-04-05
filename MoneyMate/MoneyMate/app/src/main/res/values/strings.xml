@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MoneyMate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- GOAL -->
+
+    <string name="goal_details">Goal details</string>
+
+    <!-- CREATE GOAL -->
+    <string name="new_goal">New Goal</string>
+    <string name="edtName">Name</string>
+    <string name="target_amount">Target Amount</string>
+    <string name="saved">Already Saved</string>
+    <string name="desired_date">Desired Date</string>
+
+    <!-- DISPLAY GOALS -->
+    <string name="goal_title">Goals</string>
+    <string name="goalAmount">25000</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_budget">New Budget</string>
+    <string name="period">Period</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="add_budget">Add Budget</string>
+    <string name="budget_title">Budget</string>
+    <string name="budget_details">Budget Details</string>
+</resources>
